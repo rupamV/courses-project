@@ -1,0 +1,32 @@
+.instance-list {
+  margin: 20px;
+}
+
+.instance-list table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 10px 0;
+}
+
+.instance-list th,
+.instance-list td {
+  padding: 12px;
+  border: 1px solid #dddddd;
+  text-align: left;
+}
+
+.instance-list th {
+  background-color: #5a8df5;
+  color: white;
+}
+
+.instance-list tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.instance-list button {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 1.2em;
+}

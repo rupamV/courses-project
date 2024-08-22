@@ -1,0 +1,21 @@
+.course-details {
+  padding: 20px;
+}
+
+.course-details h2 {
+  font-size: 24px;
+}
+
+.course-details p {
+  font-size: 18px;
+  margin-top: 10px;
+}
+
+.course-details a {
+  text-decoration: none;
+  color: #007BFF;
+}
+
+.course-details a:hover {
+  text-decoration: underline;
+}

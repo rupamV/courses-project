@@ -1,0 +1,32 @@
+.course-list {
+  margin: 20px;
+}
+
+.course-list table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 10px 0;
+}
+
+.course-list th,
+.course-list td {
+  padding: 12px;
+  border: 1px solid #dddddd;
+  text-align: left;
+}
+
+.course-list th {
+  background-color: #5a8df5;
+  color: white;
+}
+
+.course-list tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.course-list button {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 1.2em;
+}
