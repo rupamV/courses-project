@@ -7,7 +7,6 @@ import DeleteCourse from './components/DeleteCourse';
 import ListInstances from './components/ListInstances';
 import CreateInstance from './components/CreateInstance';
 import './styles/App.css';
-
 const App = () => {
     const [courses, setCourses] = useState([]);
     const [instances, setInstances] = useState([]);
